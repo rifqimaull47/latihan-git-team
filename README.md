@@ -38,5 +38,5 @@ Penanganan:
 
 ## Anggota
 
-- Siswa A: Nama
-- Siswa B: Nama
+- Siswa A
+- Siswa B
